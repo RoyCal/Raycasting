@@ -87,6 +87,9 @@ class RayCasting:
 
             # Correção de distorção "olho de peixe"
             depth *= math.cos(self.game.player.angle - ray_angle)
+
+            #desenhar raios de luz
+            # pg.draw.line(self.game.tela, "yellow", (100 * ox, 100 * oy), (100 * ox + 100 * depth * cos_a, 100 * oy + 100 * depth * sin_a), 2)
             
             # Calcula a altura projetada
             proj_height = SCREEN_DIST / (depth + 0.0001)
