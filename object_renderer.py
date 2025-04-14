@@ -26,8 +26,5 @@ class ObjectRenderer:
             2: self.get_texture('textures/2.png'),
             3: self.get_texture('textures/3.png'),
             4: self.get_texture('textures/4.png'),
-            5: self.get_texture('textures/5.png'),
-            6: self.get_texture('textures/6.jpeg'),
-            7: self.get_texture('textures/7.jpeg'),
-            8: self.get_texture('textures/8.jpeg')
+            5: self.get_texture('textures/5.png')
         }

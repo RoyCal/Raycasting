@@ -85,7 +85,7 @@ class RayCasting:
             #remover olho de peixe
             depth *= math.cos(self.game.player.angle - ray_angle)
             
-            #draw for debug
+            #desenhar raios de luz
             # pg.draw.line(self.game.tela, "yellow", (100 * ox, 100 * oy), (100 * ox + 100 * depth * cos_a, 100 * oy + 100 * depth * sin_a), 2)
 
             #projecao
