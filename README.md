@@ -45,22 +45,22 @@ cd raycasting-doom
 ## 📦 Estrutura do Projeto
 
 📁 projeto-raycasting/
-├── main.py
-├── mapa.py
-├── player.py
-├── object_renderer.py
-├── settings.py
-├── raycasting.py
-├── textures/
-│   └── 1.png
-│   └── 2.png
-│   └── 3.png
-│   └── 4.png
-│   └── 5.png
-├── imgs/
-│   ├── visao_3d.png
-│   └── visao_2d.png
-├── README.md
+├── main.py </br>
+├── mapa.py </br>
+├── player.py </br>
+├── object_renderer.py </br>
+├── settings.py </br>
+├── raycasting.py </br>
+├── textures/ </br>
+│   └── 1.png </br>
+│   └── 2.png </br>
+│   └── 3.png </br>
+│   └── 4.png </br>
+│   └── 5.png </br>
+├── imgs/ </br>
+│   ├── visao_3d.png </br>
+│   └── visao_2d.png </br>
+├── README.md </br>
 
 
 ## 🎮 Controles
