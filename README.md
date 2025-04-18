@@ -156,6 +156,6 @@ UI para alternar entre modo 3D/2D sem editar o código.
 | Pedro Márcio                         | Implementação do mapa, player e arquivo de configurações|
 
 ## 👨‍💻 Autores
-Desenvolvido por Vito Elias e Pedro Márcio
+Desenvolvido por Vito Elias e Pedro Márcio  </br>
 Projeto acadêmico para a disciplina de Introdução à Computação Gráfica
 
