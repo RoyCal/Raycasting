@@ -21,10 +21,6 @@ Este projeto é uma simulação em Python de um mecanismo de renderização 3D u
 
 ---
 
-## 📽️ Demonstração
-
-> *(Adicione aqui uma imagem ou GIF do seu projeto rodando para deixar o repositório mais atrativo)*
-
 ## ⚙️ Como compilar e executar
 
 ### ✅ Requisitos
